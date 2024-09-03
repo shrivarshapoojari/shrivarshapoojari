@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrivarsha Poojary</h1>
-<h3 align="center">A Passionate CSE Student from RVCE Bengaluru Interested in Web Development and AI</h3>
+<h3 align="center">A Passionate CSE Student from RVCE Bengaluru , Interested in Web Development and AI</h3>
 <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="coding" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrivarshapoojari&label=Profile%20views&color=0e75b6&style=flat" alt="shrivarshapoojari" /> </p>
 
