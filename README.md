@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **MERN Stack , DSA**
+- 💬 Ask me about **WEB DEV ,Algorithms**
 
 - 📫 How to reach me **shrivarshapoojary8095@gmail.com**
 
