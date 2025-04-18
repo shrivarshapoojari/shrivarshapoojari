@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **WEB DEV ,Algorithms**
+- 💬 Ask me about **Full Stack Development ,Algorithms**
 
 - 📫 How to reach me **shrivarshapoojary8095@gmail.com**
 
