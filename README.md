@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shrivarsha-poojary-960691249" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:shrivarshapoojary8095@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://shrivarsha-poojary.dev" target="blank"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+<a href="https://shrivarshapoojary.in" target="blank"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrivarshapoojari&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+
   <img src="https://streak-stats.demolab.com?user=shrivarshapoojari&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
 
