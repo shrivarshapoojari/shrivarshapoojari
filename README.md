@@ -60,7 +60,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-
+    <img src="https://github-readme-stats.vercel.app/api?username=shrivarshapoojari&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
   <img src="https://streak-stats.demolab.com?user=shrivarshapoojari&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
 
