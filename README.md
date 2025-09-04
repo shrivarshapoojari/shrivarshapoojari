@@ -15,7 +15,7 @@
 - 💬 Ask me about **Full Stack Development, Algorithms**
 - 📫 Reach me at **shrivarshapoojary8095@gmail.com**
 - 🌐 Visit my Portfolio: **[shrivarshapoojary.in](https://www.shrivarshapoojary.in/)**
-
+- 🌐 I share my learnings here: **[The Compiler Journal](https://blog.shrivarshapoojary.in/)**
 
 
 ## 🧩 Connect with me
