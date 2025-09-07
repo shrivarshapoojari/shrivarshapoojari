@@ -25,26 +25,6 @@
 <a href="https://shrivarshapoojary.in" target="blank"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 </p>
 
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [WebAssembly: Near-Native Performance in the Browser](https://blog.shrivarshapoojary.in/posts/webassembly/) - *September 04, 2025*
-  > WebAssembly (WASM) is a game-changer for web development. It&amp;rsquo;s a binary instruction format that runs at near-native speed in browsers, enabl...
-
-- [CAP Theorem: The Fundamental Trade-off in Distributed Systems](https://blog.shrivarshapoojary.in/posts/cap-theorem/) - *September 03, 2025*
-  > In distributed systems, you can&amp;rsquo;t have your cake and eat it too. The CAP Theorem, formulated by Eric Brewer in 2000, states that any distrib...
-
-- [Go Routines: Your Guide to Concurrent Programming in Go](https://blog.shrivarshapoojary.in/posts/goroutines/) - *September 03, 2025*
-  > Think of goroutines as lightweight threads that make concurrent programming in Go incredibly simple and powerful. Unlike traditional threads that can ...
-
-- [DNS: The Backbone of the Internet](https://blog.shrivarshapoojary.in/posts/dns/) - *August 27, 2025*
-  > Understanding DNS: The Complete Guide to the Internet&amp;rsquo;s Backbone The Domain Name System (DNS) is arguably the most critical yet invisible te...
-
-- [MapReduce: From Big Data Revolution to Modern Alternatives](https://blog.shrivarshapoojary.in/posts/map-reduce/) - *August 26, 2025*
-  > MapReduce was one of the most influential ideas in distributed computing. It gave the world a way to process petabytes of data reliably by splitting t...
-
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -92,3 +72,24 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrivarshapoojari&theme=radical" />
 </p>
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [WebAssembly: Near-Native Performance in the Browser](https://blog.shrivarshapoojary.in/posts/webassembly/) - *September 04, 2025*
+  > WebAssembly (WASM) is a game-changer for web development. It&amp;rsquo;s a binary instruction format that runs at near-native speed in browsers, enabl...
+
+- [CAP Theorem: The Fundamental Trade-off in Distributed Systems](https://blog.shrivarshapoojary.in/posts/cap-theorem/) - *September 03, 2025*
+  > In distributed systems, you can&amp;rsquo;t have your cake and eat it too. The CAP Theorem, formulated by Eric Brewer in 2000, states that any distrib...
+
+- [Go Routines: Your Guide to Concurrent Programming in Go](https://blog.shrivarshapoojary.in/posts/goroutines/) - *September 03, 2025*
+  > Think of goroutines as lightweight threads that make concurrent programming in Go incredibly simple and powerful. Unlike traditional threads that can ...
+
+- [DNS: The Backbone of the Internet](https://blog.shrivarshapoojary.in/posts/dns/) - *August 27, 2025*
+  > Understanding DNS: The Complete Guide to the Internet&amp;rsquo;s Backbone The Domain Name System (DNS) is arguably the most critical yet invisible te...
+
+- [MapReduce: From Big Data Revolution to Modern Alternatives](https://blog.shrivarshapoojary.in/posts/map-reduce/) - *August 26, 2025*
+  > MapReduce was one of the most influential ideas in distributed computing. It gave the world a way to process petabytes of data reliably by splitting t...
+
+<!-- BLOG-POST-LIST:END -->

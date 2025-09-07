@@ -127,23 +127,12 @@ def update_readme_with_blog_posts(posts, readme_path='README.md'):
         
         # Replace the blog posts section
         pattern = r'<!-- BLOG-POST-LIST:START -->.*?<!-- BLOG-POST-LIST:END -->'
-        print(f"Looking for pattern in README...")
-        
-        # Check if pattern exists
-        if re.search(pattern, content, flags=re.DOTALL):
-            print("✅ Found blog post markers in README")
-        else:
-            print("❌ Blog post markers not found in README")
-            return False
-            
         updated_content = re.sub(pattern, blog_section, content, flags=re.DOTALL)
         
         # Check if replacement was successful
         if content == updated_content:
-            print("ℹ️  Content unchanged - blog posts are already up to date")
-            return True
-        else:
-            print("✅ Content updated with new blog posts")
+            print("Warning: Blog post markers not found in README.md")
+            return False
         
         # Write updated content back to README
         with open(readme_path, 'w', encoding='utf-8') as file:
