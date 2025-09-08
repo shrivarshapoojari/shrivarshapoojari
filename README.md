@@ -75,6 +75,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrivarshapoojari&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [WebAssembly: Near-Native Performance in the Browser](https://blog.shrivarshapoojary.in/posts/webassembly/) - *September 04, 2025*

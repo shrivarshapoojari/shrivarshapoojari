@@ -1,0 +1,64 @@
+[
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_latest_blog_posts",
+        "kind": 2,
+        "importPath": "update_blog",
+        "description": "update_blog",
+        "peekOfCode": "def fetch_latest_blog_posts(rss_url, max_posts=5):\n    \"\"\"\n    Fetch latest blog posts from RSS feed using only requests and xml.etree\n    \"\"\"\n    try:\n        # Fetch the RSS feed\n        response = requests.get(rss_url, timeout=10)\n        response.raise_for_status()\n        # Parse XML\n        root = ET.fromstring(response.content)",
+        "detail": "update_blog",
+        "documentation": {}
+    },
+    {
+        "label": "update_readme_with_blog_posts",
+        "kind": 2,
+        "importPath": "update_blog",
+        "description": "update_blog",
+        "peekOfCode": "def update_readme_with_blog_posts(posts, readme_path='README.md'):\n    \"\"\"\n    Update README.md with latest blog posts\n    \"\"\"\n    try:\n        # Read current README content\n        with open(readme_path, 'r', encoding='utf-8') as file:\n            content = file.read()\n        # Create the blog posts section\n        if posts:",
+        "detail": "update_blog",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "update_blog",
+        "description": "update_blog",
+        "peekOfCode": "def main():\n    \"\"\"Main function\"\"\"\n    print(\"🚀 Starting blog posts update...\")\n    # Your blog RSS feed URL\n    RSS_URL = \"https://blog.shrivarshapoojary.in/index.xml\"\n    # Fetch latest blog posts\n    posts = fetch_latest_blog_posts(RSS_URL, max_posts=5)\n    if posts:\n        print(f\"📖 Found {len(posts)} blog posts:\")\n        for i, post in enumerate(posts, 1):",
+        "detail": "update_blog",
+        "documentation": {}
+    }
+]
