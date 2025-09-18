@@ -2,8 +2,8 @@ name: Update Blog Posts
 
 on:
   schedule:
-    # Check every 2 hours from 9 AM to 1 AM IST + extra at 8 PM IST
-    - cron: '30 3,5,7,9,11,13,14,15,17,19 * * *'
+    #  
+    - cron: '30 3 * * *'
   workflow_dispatch: # Allow manual trigger
   repository_dispatch:
     types: [blog-updated] # Triggered from blog repository
