@@ -2,8 +2,8 @@ name: Update Blog Posts
 
 on:
   schedule:
-    #  
-    - cron: '30 3 * * *'
+    # Run twice a week: Monday and Thursday at 03:30 UTC
+    - cron: '30 3 * * 1,4'
   workflow_dispatch: # Allow manual trigger
   repository_dispatch:
     types: [blog-updated] # Triggered from blog repository
